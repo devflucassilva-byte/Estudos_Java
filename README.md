@@ -1,4 +1,4 @@
-# Banco Digital API (`banco-digital-api`)
+# Banco Digital API (`Banco_digital`)
 
 Uma aplicação web full-stack de banco digital desenvolvida em Java, projetada para simular operações financeiras essenciais com foco em segurança, desempenho e arquitetura limpa sem dependência de frameworks pesados.
 
